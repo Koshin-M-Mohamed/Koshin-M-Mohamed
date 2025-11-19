@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://koshinmohamed.netlify.app/](https://koshinmohamed.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.JS, React, MongoDB, API, GitHub**
+- 💬 Ask me about **HTML, CSS, Python, C, Java, JavaScript, Node.JS, React, MongoDB, API, GitHub**
 
 - 📫 How to reach me **koshin.m.mohamed12@gmail.com**
 
