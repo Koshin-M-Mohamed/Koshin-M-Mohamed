@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/koshinpro" target="blank"><img src="https://img.shields.io/twitter/follow/koshinpro?logo=twitter&style=for-the-badge" alt="koshinpro" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://koshinmohamed.netlify.app/](https://koshinmohamed.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, Python, C, Java, JavaScript, Node.JS, React, MongoDB, API, GitHub**
-
 - 📫 How to reach me **koshin.m.mohamed12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
