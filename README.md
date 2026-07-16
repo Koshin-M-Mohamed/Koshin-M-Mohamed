@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koshin Mohamed</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koshin-m-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="koshin-m-mohamed" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/koshinpro" target="blank"><img src="https://img.shields.io/twitter/follow/koshinpro?logo=twitter&style=for-the-badge" alt="koshinpro" /></a> </p>
-
 - 📫 How to reach me **koshin.m.mohamed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
