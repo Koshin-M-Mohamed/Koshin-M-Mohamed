@@ -19,7 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koshin-m-mohamed&show_icons=true&locale=en&layout=compact" alt="koshin-m-mohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koshin-m-mohamed&show_icons=true&locale=en" alt="koshin-m-mohamed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koshin-m-mohamed&" alt="koshin-m-mohamed" /></p>
 
